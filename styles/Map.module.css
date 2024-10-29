@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "KOTRA_BOLD-Bold";
+    src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.1/KOTRA_BOLD-Bold.woff")
+        format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.userlocationbutton {
+    background-color: #ffe8b1;
+    border-radius: 100px;
+    font-size: 130%;
+    white-space: pre-line;
+    padding: 1rem 0;
+    margin-right: 3%;
+    margin-top: 7.5rem;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    right: 0;
+    width: 15rem;
+    z-index: 1000;
+    font-family: "KOTRA_BOLD-Bold", sans-serif;
+}
+
+.here {
+    max-width: none;
+    z-index: 2000;
+}
+
+.markers {
+    z-index: 1200;
+}
