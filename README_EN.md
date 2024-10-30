@@ -91,13 +91,3 @@ Contributions to improve the Eco-Travel Web Application are welcome! If you have
 ```
 
 5. **Create a Pull Request**
-
-## License
-
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
-
--   **Usage:** This project can be used, shared, and modified for non-commercial purposes.
--   **Attribution:** Proper credit must be given, a license link provided, and any modifications disclosed.
--   **Commercial Use:** This project is not licensed for commercial use.
-
----
