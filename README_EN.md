@@ -25,6 +25,63 @@
 
 ### ♻️ Carbon Footprint Calculator (Pedometer)
 
+## Demo
+
+> Try it out for yourself at https://eco-travel.netlify.app! (All features are available except for Google paid services)
+
+### Login / Sign up
+<p align="center">
+  <img src="./demo/login.png" height="500"/>
+</p>
+
+### Home Screen
+<p align="center">
+  <img src="./demo/home.png" height="500"/>
+</p>
+
+### Community
+<p align="center">
+  <img src="./demo/chat.png" height="500"/>
+</p>
+
+### Travel recommendations page
+<p align="center">
+  <img src="./demo/suggest.png" height="500"/>
+</p>
+
+### carbon footprint pedometer
+<div style="display: flex; justify-content: space-between;">
+  <img src="./demo/walk.png" height="500">
+  <img src="./demo/walk2.png" height="500">
+</div>
+
+### Destination search page
+<p align="center">
+  <img src="./demo/search.png" height="500"/>
+</p>
+
+### Rewards eligibility/redemption page
+<p align="center">
+  <img src="./demo/reward.png" height="500"/>
+</p>
+
+### Rewards advertising page
+<p align="center">
+  <img src="./demo/ad.png" height="500"/>
+</p>
+
+### My page
+<div style="display: flex; justify-content: space-between;">
+  <img src="./demo/mypage.png" height="500">
+  <img src="./demo/mypage2.png" height="500">
+  <img src="./demo/mypage3.png" height="500">
+</div>
+
+### App AI assistant
+<p align="center">
+  <img src="./demo/ai.png" height="500"/>
+</p>
+
 ## Getting Started
 
 To start the project, follow these steps:
@@ -61,11 +118,11 @@ The app will run at http://localhost:3000.
 
 ## Notes
 
--   A demo of the project is available at https://eco-travel.netlify.app (all features are implemented).
 -   The `pages/download.js` file uses `public/ecotravel.apk`. Add the APK to `public/` or remove `pages/download.js` if you do not need this functionality.
 -   The AI chat feature in `pages/aichat.js` is not yet implemented by default. Please customize this file to integrate AI chat.
 -   You can enable the ClickIndicator feature by uncommenting the `ClickIndicator` in `pages/_app.js`.
 -   Generative AI was used to create some of the image assets.
+- The demo ad shown when rewarding is [a public service announcement produced by the Ministry of the Environment](https://www.youtube.com/watch?v=cCW6eKySZjk).
 
 ## Contributing
 

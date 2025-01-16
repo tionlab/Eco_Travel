@@ -25,6 +25,63 @@
 
 ### ♻️ 碳足迹计算器（步数计）
 
+## 演示
+
+> 請上 https://eco-travel.netlify.app 試用！(除 Google 付費服務外，所有功能均可用)
+
+### 登入 / 註冊
+<p align="center">
+  <img src="./demo/login.png" height="500"/>
+</p>
+
+### 首頁畫面
+<p align="center">
+  <img src="./demo/home.png" height="500"/>
+</p>
+
+### 社區
+<p align="center">
+  <img src="./demo/chat.png" height="500"/>
+</p>
+
+### 旅遊建議頁面
+<p align="center">
+  <img src="./demo/suggest.png" height="500"/>
+</p>
+
+### 碳足跡計步器
+<div style="display: flex; justify-content: space-between;">
+  <img src="./demo/walk.png" height="500">
+  <img src="./demo/walk2.png" height="500">
+</div>
+
+### 目的地搜尋頁面
+<p align="center">
+  <img src="./demo/search.png" height="500"/>
+</p>
+
+### 獎勵資格/兌換頁面
+<p align="center">
+  <img src="./demo/reward.png" height="500"/>
+</p>
+
+### 獎勵廣告頁面
+<p align="center">
+  <img src="./demo/ad.png" height="500"/>
+</p>
+
+### 我的頁面
+<div style="display: flex; justify-content: space-between;">
+  <img src="./demo/mypage.png" height="500">
+  <img src="./demo/mypage2.png" height="500">
+  <img src="./demo/mypage3.png" height="500">
+</div>
+
+### 應用程式 AI 助理
+<p align="center">
+  <img src="./demo/ai.png" height="500"/>
+</p>
+
 ## 快速开始
 
 要启动项目，请按以下步骤操作：
@@ -61,11 +118,11 @@
 
 ## 注意事项
 
--   您可以在 https://eco-travel.netlify.app 上试用本项目的演示版（包含所有功能）。
 -   `pages/download.js` 使用 `public/ecotravel.apk` 文件。可以选择创建 APK 并添加到此文件中，或删除 `pages/download.js` 以移除该功能。
 -   `pages/aichat.js` 未集成 AI 聊天功能，您可以在此文件中自行添加。
 -   在 `pages/_app.js` 中取消对 `ClickIndicator` 的注释，以启用该功能。
 -   部分图像文件由生成式 AI 创建。
+- 獎勵時顯示的示範廣告是 [環境部製作的公益廣告](https://www.youtube.com/watch?v=cCW6eKySZjk)。
 
 ## 贡献
 

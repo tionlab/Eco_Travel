@@ -25,6 +25,62 @@
 
 ### ♻️ 탄소 발자국 계산기 (만보기)
 
+## 데모
+> https://eco-travel.netlify.app 에서 직접 사용해보세요! (구글 유료 서비스를 제외한 모든 기능을 사용할 수 있습니다)
+
+### 로그인 / 회원가입
+<p align="center">
+  <img src="./demo/login.png" height="500"/>
+</p>
+
+### 홈 화면
+<p align="center">
+  <img src="./demo/home.png" height="500"/>
+</p>
+
+### 커뮤니티
+<p align="center">
+  <img src="./demo/chat.png" height="500"/>
+</p>
+
+### 여행 추천 상품 페이지
+<p align="center">
+  <img src="./demo/suggest.png" height="500"/>
+</p>
+
+### 탄소 발자국 만보기
+<div style="display: flex; justify-content: space-between;">
+  <img src="./demo/walk.png" height="500">
+  <img src="./demo/walk2.png" height="500">
+</div>
+
+### 여행지 검색 페이지
+<p align="center">
+  <img src="./demo/search.png" height="500"/>
+</p>
+
+### 리워드 자격확인/수령 페이지
+<p align="center">
+  <img src="./demo/reward.png" height="500"/>
+</p>
+
+### 리워드 광고 페이지
+<p align="center">
+  <img src="./demo/ad.png" height="500"/>
+</p>
+
+### 마이페이지
+<div style="display: flex; justify-content: space-between;">
+  <img src="./demo/mypage.png" height="500">
+  <img src="./demo/mypage2.png" height="500">
+  <img src="./demo/mypage3.png" height="500">
+</div>
+
+### 앱 사용 AI 도우미
+<p align="center">
+  <img src="./demo/ai.png" height="500"/>
+</p>
+
 ## 시작하기
 
 프로젝트를 시작하려면 아래 단계를 따르세요:
@@ -61,7 +117,6 @@
 
 ## 알림
 
--   해당 프로젝트 데모는 https://eco-travel.netlify.app 에서 사용해볼 수 있습니다. (구글 서비스 제외 모든 기능을 체험해 볼 수 있습니다.)
 -   pages/download.js 는 public/ecotravel.apk를 사용합니다. 이에 대해 APK를 만들어 추가하거나 pages/download.js를 삭제하여 기능을 삭제하십시오.
 -   pages/aichat.js 는 AI 채팅기능이 기본적으로 구축되있지 않습니다. 해당 파일에서 직접 AI 채팅기능을 구축하시길 바랍니다.
 -   pages/\_app.js에 있는 ClickIndicator의 주석을 해제하여 ClickIndicator 기능을 활성화 할 수 있습니다.
