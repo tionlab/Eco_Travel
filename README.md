@@ -66,6 +66,7 @@
 -   pages/aichat.js 는 AI 채팅기능이 기본적으로 구축되있지 않습니다. 해당 파일에서 직접 AI 채팅기능을 구축하시길 바랍니다.
 -   pages/\_app.js에 있는 ClickIndicator의 주석을 해제하여 ClickIndicator 기능을 활성화 할 수 있습니다.
 -   일부 이미지 파일 생성에 생성형 AI가 사용되었습니다.
+-   리워드 지급 시 보여지는 데모광고는 [환경부에서 제작한 공익광고](https://www.youtube.com/watch?v=cCW6eKySZjk)를 사용하였습니다.
 
 ## 기여하기
 
